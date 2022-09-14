@@ -55,6 +55,7 @@ Create a new repository on Github, clone it to your own laptop, commit and push 
 ### Git hooks
 - Type of hooks [here](https://git-scm.com/docs/githooks)
 - [Example](https://www.atlassian.com/git/tutorials/git-hooks)
+    - VScode change `File Exclude` to show `.git` directory
 
 
 
