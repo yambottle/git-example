@@ -9,7 +9,7 @@
 
 ### Basics
 Create a new repository on Github, clone it to your own laptop, commit and push your code
-- Set up VScode Git extension
+- Set up VScode Git extension(sometimes lagging, needs manually refresh)
 - `git clone`
 - `git switch(checkout)`
 - `git add` / `git restore(rm)`
