@@ -14,7 +14,7 @@ Create a new repository on Github, clone it to your own laptop, commit and push 
 - `git switch(checkout)`
 - `git add` / `git restore(rm)`
 - `git commit`
-    - convensional commit
+    - VScode convensional commit extension
 - `git push`
 
 ### Ready to release
