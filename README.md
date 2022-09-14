@@ -41,6 +41,7 @@ Create a new repository on Github, clone it to your own laptop, commit and push 
 ### Accidentally pushed sensitive info
 - `git reset --soft <commit>` / `git reset --hard <commit>`
     - `git push -f`
+- `git cherry-pick` [example](https://www.atlassian.com/git/tutorials/cherry-pick)
 
 ### Temporarily keep you changes at somewhere, and bring it back later
 - `git stash`
