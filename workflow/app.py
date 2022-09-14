@@ -1,5 +1,5 @@
 def main():
-    print("test")
+    print("test hook")
 
 
 if __name__ == "__main__":
