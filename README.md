@@ -26,7 +26,6 @@ Create a new repository on Github, clone it to your own laptop, commit and push 
     - `git push upstream -d x.x.x`
 
 ### Sync your own codebase(fork/branch) with the upstream
-    
 - Github web
 - Git CLI
 - `git fetch`
