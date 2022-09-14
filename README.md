@@ -52,7 +52,7 @@ Create a new repository on Github, clone it to your own laptop, commit and push 
 - Github squash and commit
 - Rebase your own fork's commit history
 
-### Git hooks
+### Git Hooks
 - Type of hooks [here](https://git-scm.com/docs/githooks)
 - [Example](https://www.atlassian.com/git/tutorials/git-hooks)
     - VScode change `File Exclude` to show `.git` directory
